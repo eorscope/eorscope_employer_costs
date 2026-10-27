@@ -9,4 +9,4 @@ description([ 'Read-only lookup of the EOR Scope open dataset (CC BY 4.0):',
             ]).
 author('EOR Scope Research', 'research@eorscope.com').
 home('https://eorscope.com/eor-cost-calculator/').
-download('https://github.com/eorscope/employer-costs-prolog.git').
+download('https://github.com/eorscope/eorscope_employer_costs.git').

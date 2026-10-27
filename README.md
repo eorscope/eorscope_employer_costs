@@ -14,7 +14,7 @@ Source of the data: the EOR Scope open dataset, https://eorscope.com/data/
 
 ## Install
 
-    swipl pack install https://github.com/eorscope/employer-costs-prolog.git
+    swipl pack install https://github.com/eorscope/eorscope_employer_costs.git
 
 ## Usage
 
